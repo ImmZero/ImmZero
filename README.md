@@ -1,5 +1,3 @@
-# IrvinMendozaMendoza
-
 # 👋 ¡Hola! Soy Irvin Mendoza Mendoza
 
 🎓 **Ingeniero en Comunicaciones y Electrónica**  
