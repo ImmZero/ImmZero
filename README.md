@@ -1,81 +1,80 @@
-# 👋 ¡Hola! Soy Irvin Mendoza Mendoza
+# Irvin Mendoza Mendoza
 
-🎓 **Ingeniero en Comunicaciones y Electrónica**  
-💻 **Desarrollador de páginas web y software**  
-📱 **Desarrollador de aplicaciones Android**  
-
----
-
-## 🚀 Sobre mí  
-Soy un apasionado de la tecnología y el desarrollo de software. Me especializo en crear soluciones web y móviles con un enfoque en **rendimiento, diseño profesional y experiencia de usuario**.  
-Me gusta mantenerme actualizado en nuevas tecnologías y frameworks para entregar proyectos modernos y escalables.  
+🎓 Ingeniero en Comunicaciones y Electrónica — IPN
+💻 Software Engineer — Backend · Full Stack · Desktop · Embebidos
+🚀 Creador de UltraInventory — SaaS de punto de venta en producción
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## Sobre mí
 
-### 👨‍💻 Lenguajes  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)  
-
-### 📚 Frameworks & Librerías  
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-
-### 🌐 Desarrollo Web  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
-
-### 📱 Apps Móviles  
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)  
-![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white)  
-
-### 🗄️ Bases de Datos  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-
-### ☁️ Cloud & Otros  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![FPGA](https://img.shields.io/badge/FPGA-00979D?logo=verilog&logoColor=white)  
-![MSP430](https://img.shields.io/badge/MSP430-CC0000?logo=texasinstruments&logoColor=white)  
-![ATmega](https://img.shields.io/badge/ATmega-0082FC?logo=arduino&logoColor=white)  
+Desarrollo sistemas de software completos: desde plataformas SaaS con
+arquitectura empresarial hasta editores de video de escritorio y sistemas
+embebidos. Me interesa construir productos reales, con código limpio y
+enfoque en rendimiento y escalabilidad.
 
 ---
 
-## 📌 Proyectos destacados  
-- 🛒 **Sistema de gestión de tienda por comandos de voz** – Inventario, ventas y reportes con gráficos.  
-- 📱 **Aplicación para Android de imágenes** – Cambia el color de fondo y permite compartir en redes sociales.  
-- 🎮 **Videojuego 2D y 3D en Unity** – Recolección infinita y sistema de construcciones.  
-- 🌐 **Sitios web profesionales** – Páginas con diseño moderno, hosting y dominios.  
+## 🛠️ Tecnologías y Herramientas
+
+### 👨‍💻 Lenguajes
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+### 📚 Frameworks & Librerías
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2014-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
+### 🔧 Hardware & Otros
+![MSP430](https://img.shields.io/badge/MSP430-CC0000?logo=texasinstruments&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-00979D?logo=verilog&logoColor=white)
+![ATmega](https://img.shields.io/badge/ATmega-0082FC?logo=arduino&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
 ---
 
-## 📜 Certificaciones  
-✅ Aspectos básicos: Datos, datos, en todas partes – **COURSERA**  
-✅ Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQL – **UDEMY**  
-✅ Desarrollo de videojuegos 3D con Unity y C# – **UDEMY**  
-✅ Programación de Aplicaciones para Android con Kotlin – **UDEMY**  
+## 📌 Proyectos destacados
+
+- ⚡ **[UltraInventory](https://ultrainventory.com.mx)** — Plataforma SaaS de punto de venta e inventario en producción. .NET 8 + Next.js 14 + Stripe + PostgreSQL.
+- 🎬 **UltroVideo** — Editor de video no lineal para Windows (estilo Adobe Premiere). C#, WPF, LibVLCSharp, FFmpeg.
+- 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.
+- 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.
 
 ---
 
-## 📫Contacto  
-- ✉️ Email: imendomen@gmail.com 
-- 🌐 Portafolio / Web: 
-- 💼 LinkedIn: www.linkedin.com/in/irvin-mendoza-mendoza-b132aa304
+## 📜 Certificaciones
+
+✅ Google Data Analytics — Aspectos básicos · **Coursera**
+✅ Programación de Aplicaciones para Android con Kotlin · **Udemy**
+✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy**
+✅ Desarrollo de Videojuegos 3D con Unity y C# · **Udemy**
 
 ---
-⭐ Siempre abierto a colaborar en proyectos de desarrollo y nuevas oportunidades.
+
+## 📫 Contacto
+
+- ✉️ imendomen@gmail.com
+- 🌐 [ultrainventory.com.mx](https://ultrainventory.com.mx)
+- 💼 [linkedin.com/in/irvin-mendoza-b132aa304](https://linkedin.com/in/irvin-mendoza-b132aa304)
