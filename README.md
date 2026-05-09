@@ -1,8 +1,8 @@
 # Irvin Mendoza Mendoza
 
-🎓 Ingeniero en Comunicaciones y Electrónica — IPN
-💻 Software Engineer — Backend · Full Stack · Desktop · Embebidos
-🚀 Creador de UltraInventory — SaaS de punto de venta en producción
+🎓 **Ingeniero en Comunicaciones y Electrónica — IPN**<br>
+💻 **Software Engineer — Backend · Full Stack · Desktop · Embebidos**<br>
+🚀 **Creador de [UltraInventory](https://ultrainventory.com.mx) — SaaS de punto de venta en producción**
 
 ---
 
@@ -57,18 +57,18 @@ enfoque en rendimiento y escalabilidad.
 
 ## 📌 Proyectos destacados
 
-- ⚡ **[UltraInventory](https://ultrainventory.com.mx)** — Plataforma SaaS de punto de venta e inventario en producción. .NET 8 + Next.js 14 + Stripe + PostgreSQL.
-- 🎬 **UltroVideo** — Editor de video no lineal para Windows (estilo Adobe Premiere). C#, WPF, LibVLCSharp, FFmpeg.
-- 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.
-- 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.
+- ⚡ **[UltraInventory](https://ultrainventory.com.mx)** — Plataforma SaaS de punto de venta e inventario en producción. .NET 8 + Next.js 14 + Stripe + PostgreSQL.<br>
+- 🎬 **UltroVideo** — Editor de video no lineal para Windows (estilo Adobe Premiere). C#, WPF, LibVLCSharp, FFmpeg.<br>
+- 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.<br>
+- 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.<br>
 
 ---
 
 ## 📜 Certificaciones
 
-✅ Google Data Analytics — Aspectos básicos · **Coursera**
-✅ Programación de Aplicaciones para Android con Kotlin · **Udemy**
-✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy**
+✅ Google Data Analytics — Aspectos básicos · **Coursera**<br>
+✅ Programación de Aplicaciones para Android con Kotlin · **Udemy**<br>
+✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy**<br>
 ✅ Desarrollo de Videojuegos 3D con Unity y C# · **Udemy**
 
 ---
