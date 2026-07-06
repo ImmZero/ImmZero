@@ -57,7 +57,7 @@ enfoque en rendimiento y escalabilidad.
 ## 📌 Proyectos destacados
 
 - ⚡ **Plataforma SaaS de punto de venta e inventario** .NET 8 + Next.js 14 + Stripe + PostgreSQL.<br>
-- 🎬 **UltroVideo** — Proyecto personal de ditor de video no lineal para Windows. C#, WPF, LibVLCSharp, FFmpeg.<br>
+- 🎬 **UltroVideo** — Proyecto personal de editor de video no lineal para Windows. C#, WPF, LibVLCSharp, FFmpeg.<br>
 - 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.<br>
 - 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.<br>
 
