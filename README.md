@@ -2,7 +2,6 @@
 
 🎓 **Ingeniero en Comunicaciones y Electrónica — IPN**<br>
 💻 **Software Engineer — Backend · Full Stack · Desktop · Embebidos**<br>
-🚀 **Creador de [UltraInventory](https://ultrainventory.com.mx) — SaaS de punto de venta en producción**
 
 ---
 
@@ -57,8 +56,8 @@ enfoque en rendimiento y escalabilidad.
 
 ## 📌 Proyectos destacados
 
-- ⚡ **[UltraInventory](https://ultrainventory.com.mx)** — Plataforma SaaS de punto de venta e inventario en producción. .NET 8 + Next.js 14 + Stripe + PostgreSQL.<br>
-- 🎬 **UltroVideo** — Editor de video no lineal para Windows (estilo Adobe Premiere). C#, WPF, LibVLCSharp, FFmpeg.<br>
+- ⚡ **Plataforma SaaS de punto de venta e inventario** .NET 8 + Next.js 14 + Stripe + PostgreSQL.<br>
+- 🎬 **UltroVideo** — Proyecto personal de ditor de video no lineal para Windows. C#, WPF, LibVLCSharp, FFmpeg.<br>
 - 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.<br>
 - 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.<br>
 
@@ -76,5 +75,4 @@ enfoque en rendimiento y escalabilidad.
 ## 📫 Contacto
 
 - ✉️ imendomen@gmail.com
-- 🌐 [ultrainventory.com.mx](https://ultrainventory.com.mx)
 - 💼 [linkedin.com/in/irvin-mendoza-b132aa304](https://linkedin.com/in/irvin-mendoza-b132aa304)
