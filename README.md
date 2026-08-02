@@ -1,16 +1,12 @@
 # Irvin Mendoza Mendoza
 
 🎓 **Ingeniero en Comunicaciones y Electrónica — IPN**<br>
-💻 **Software Engineer — Backend · Full Stack · Desktop · Embebidos**<br>
 
 ---
 
 ## Sobre mí
 
-Desarrollo sistemas de software completos: desde plataformas SaaS con
-arquitectura empresarial hasta editores de video de escritorio y sistemas
-embebidos. Me interesa construir productos reales, con código limpio y
-enfoque en rendimiento y escalabilidad.
+Ingeniero en Comunicaciones y Electrónica con facilidad de aprender y desenvolverme en el área.
 
 ---
 
@@ -69,6 +65,7 @@ enfoque en rendimiento y escalabilidad.
 ✅ Programación de Aplicaciones para Android con Kotlin · **Udemy**<br>
 ✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy**<br>
 ✅ Desarrollo de Videojuegos 3D con Unity y C# · **Udemy**
+✅ Educación financiera · **CONDUSEF**
 
 ---
 
