@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Ingeniero en Comunicaciones y Electrónica con facilidad de aprender y desenvolverme en el área.
+Ingeniero en Comunicaciones y Electrónica con facilidad de aprender y desenvolverme en el área, apasionado por el aprendizaje continuo.
 
 ---
 
