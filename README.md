@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Ingeniero en Comunicaciones y Electrónica con facilidad de aprender y desenvolverme en el área, apasionado por el aprendizaje continuo.
+Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la innovación tecnológica y el desarrollo de soluciones eficientes. Con una formación sólida en comunicaciones y electrónica, busco aplicar mis habilidades con confianza y adaptabilidad en proyectos desafiantes. Orientado a resultados y con un enfoque pragmático, aspiro a contribuir en el desarrollo de soluciones tecnológicas innovadoras.
 
 ---
 
@@ -48,6 +48,11 @@ Ingeniero en Comunicaciones y Electrónica con facilidad de aprender y desenvolv
 ![ATmega](https://img.shields.io/badge/ATmega-0082FC?logo=arduino&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
+---
+## 📌 Experiencia Profesional
+**Desarrollo Web de Marketing de afiliación**  - Desarrollé comandos de voz y una interfaz de usuario para optimizar la gestión de inventario en una tienda de conveniencia. Esta solución mejoró significativamente el conocimiento y la actualización del inventario. Implementé una metodología ágil de modelo incremental para garantizar el éxito del proyecto.
+
+**Base de datos aplicada a la gestión de una tienda de conveniencia por comando de voz.**  - Desarrollé una plataforma web orientada a la publicación y promoción de productos mediante enlaces de afiliación con la presentación de productos, categorías y enlaces externos, desarrollando una interfaz enfocada en la experiencia del usuario y navegación intuitiva optimizando rendimiento y accesibilidad.
 ---
 
 ## 📌 Proyectos destacados
