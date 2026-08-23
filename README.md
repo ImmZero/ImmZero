@@ -19,34 +19,47 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### 📚 Frameworks & Librerías
-![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js%2014-000000?logo=nextdotjs&logoColor=white)
+### ⚙️ Backend
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-512BD4?logo=dotnet&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS-512BD4?logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+### 🎨 Frontend
+![Next.js 14](https://img.shields.io/badge/Next.js%2014-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-512BD4?logo=dotnet&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps / Cloud
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white)
 
-### 🔧 Hardware & Otros
-![MSP430](https://img.shields.io/badge/MSP430-CC0000?logo=texasinstruments&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-00979D?logo=verilog&logoColor=white)
-![ATmega](https://img.shields.io/badge/ATmega-0082FC?logo=arduino&logoColor=white)
+### 🔧 Otros
+![Stripe API](https://img.shields.io/badge/Stripe%20API-635BFF?logo=stripe&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
+![LibVLCSharp](https://img.shields.io/badge/LibVLCSharp-FF8800?logo=vlcmediaplayer&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![MSP430](https://img.shields.io/badge/MSP430-CC0000?logo=texasinstruments&logoColor=white)
+![FPGA Spartan-5](https://img.shields.io/badge/FPGA%20Spartan--5-00979D?logo=verilog&logoColor=white)
 
 ---
 ## 📌 Experiencia Profesional
