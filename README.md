@@ -68,7 +68,8 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 
 ## 📜 Certificaciones
 
-✅ Google Data Analytics — Aspectos básicos · **Coursera**<br>
+✅ Google Data Analytics — Aspectos básicos · **Google**<br>
+✅ Power BI · **Santander Open Academy**<br>
 ✅ Programación de Aplicaciones para Android con Kotlin · **Udemy**<br>
 ✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy**<br>
 ✅ Desarrollo de Videojuegos 3D con Unity y C# · **Udemy**
