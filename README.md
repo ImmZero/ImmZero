@@ -62,8 +62,7 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 ![FPGA Spartan-5](https://img.shields.io/badge/FPGA%20Spartan--5-00979D?logo=verilog&logoColor=white)
 
 ---
-## 📌 Experiencia Profesional
-**Desarrollo Web de Marketing de afiliación**  - Desarrollé comandos de voz y una interfaz de usuario para optimizar la gestión de inventario en una tienda de conveniencia. Esta solución mejoró significativamente el conocimiento y la actualización del inventario. Implementé una metodología ágil de modelo incremental para garantizar el éxito del proyecto.
+## 📌 Proyecto Titulación
 
 **Base de datos aplicada a la gestión de una tienda de conveniencia por comando de voz.** - Desarrollé una plataforma web orientada a la publicación y promoción de productos mediante enlaces de afiliación con la presentación de productos, categorías y enlaces externos, desarrollando una interfaz enfocada en la experiencia del usuario y navegación intuitiva optimizando rendimiento y accesibilidad.
 
