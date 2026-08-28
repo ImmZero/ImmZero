@@ -86,7 +86,7 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 ✅ Programación de Aplicaciones para Android con Kotlin · **Udemy** [certificate](https://ude.my/UC-ce1449a5-ad8d-4737-b6f6-72ae91dd92bd)<br>
 ✅ Desarrollo Web Completo (HTML5, CSS3, JS, AJAX, PHP, MySQL) · **Udemy** [certificate](https://ude.my/UC-7e5330fb-2a9f-4a7f-a0d3-11400af84aa6)<br>
 ✅ Desarrollo de Videojuegos 3D con Unity y C# · **Udemy** [certificate](https://ude.my/UC-4fed6e95-caea-4720-a468-921982a58abe)<br>
-✅ Educación financiera · **CONDUSEF** [certificate]([NDQ1NjA0fDEwfDIwMjQtMDgtMDQ=](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=445604&idg=47))<br>
+✅ Educación financiera · **CONDUSEF** [certificate](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=445604&idg=47)<br>
 
 ---
 
