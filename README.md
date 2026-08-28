@@ -72,6 +72,7 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 
 - ⚡ **Plataforma SaaS de punto de venta e inventario** .NET 8 + Next.js 14 + Stripe + PostgreSQL.<br>
 - 🎬 **UltroVideo** — Proyecto personal de editor de video no lineal para Windows. C#, WPF, LibVLCSharp, FFmpeg.<br>
+- ⚡ **Aplicación Móvil de Edición de Imágenes** Desarrollé una aplicación móvil con filtros de color personalizados y filtro de apertura, optimizando la experiencia visual mediante una interfaz intuitiva construida con C# y .NET MAUI. 
 - 🤖 **Pipeline de ML** — Modelo de aprendizaje automático con evaluación de métricas y ajuste dinámico de parámetros. Python, Scikit-learn.<br>
 - 🎮 **Videojuego 2D y 3D en Unity** — Recolección infinita y sistema de construcciones. C#, Unity.<br>
 
