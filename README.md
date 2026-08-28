@@ -66,7 +66,6 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 
 **Base de datos aplicada a la gestión de una tienda de conveniencia por comando de voz.** - Desarrollé una plataforma web orientada a la publicación y promoción de productos mediante enlaces de afiliación con la presentación de productos, categorías y enlaces externos, desarrollando una interfaz enfocada en la experiencia del usuario y navegación intuitiva optimizando rendimiento y accesibilidad.
 
-
 ---
 
 ## 📌 Proyectos destacados
