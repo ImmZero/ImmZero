@@ -64,7 +64,7 @@ Ingeniero en Comunicaciones y Electrónica con un fuerte compromiso hacia la inn
 ---
 ## 📌 Proyecto Titulación
 
-**Base de datos aplicada a la gestión de una tienda de conveniencia por comando de voz.** - Desarrollé una plataforma web orientada a la publicación y promoción de productos mediante enlaces de afiliación con la presentación de productos, categorías y enlaces externos, desarrollando una interfaz enfocada en la experiencia del usuario y navegación intuitiva optimizando rendimiento y accesibilidad.
+**Base de datos aplicada a la gestión de una tienda de conveniencia por comando de voz.** - Desarrollé una plataforma web orientada a la publicación y promoción de productos mediante enlaces de afiliación con la presentación de productos, categorías y enlaces externos, desarrollando una interfaz enfocada en la experiencia del usuario y navegación intuitiva optimizando rendimiento y accesibilidad. [Proyecto](https://github.com/josemar23ran/Proyecto-de-Titulaci-n/commit/c3553af303ec40e5749112ab72698d0e6d48479f)
 
 ---
 
